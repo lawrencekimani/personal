@@ -1,14 +1,46 @@
 body {
-    background-color: red;
+    background-color: black;
+    color: pink;
+    
+
+    
   }
   
   h1 {
-    color: black;
+    color: blue;
     text-align: center;
+  }
+
+  h2 {
+      color: red;
+      text-align: center;
+  }
+  div h2 {
+      color: green;
   }
   
   p {
-    font-family: verdana;
-    font-size: 60px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color:red;
+    text-align: left;
   }
+
+  .wrapper {
+    margin: auto;
+    width: 1000px;
+  }
+
+  img {
+    text-align: auto;
+
+  }
+
+  
+
+  
+
+  
+  
+   
   
