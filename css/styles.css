@@ -39,6 +39,7 @@ body {
 
   .model-box1 {
     background-color: white;
+    text-align: center;  
     content: icon;
     border-right: 4px solid red;
     border-left: 4px solid pink;
@@ -46,26 +47,7 @@ body {
     border-bottom: 4px solid plum;
   }
 
-  /* the CSS box model*/
-
-  /*
-    Margin:
-    Border:
-    Padding:
-  /*  
-
-
-  .box {
-    background: pink;
-    width: 300px;
-
-    margin:100px
-    border:15px solid green;
-    border-left:15px solid red;
-    border-style: inset;
-
-
-  }
+  
 
   
 
